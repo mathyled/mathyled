@@ -1,18 +1,9 @@
-## Bienvenid@ 👋 :smile: Soy un Desarrollador Full Stack de Argentina entusiasta por tecnologias actuales 💻 :smiling_face_with_three_hearts:
+# Bienvenid@ 👋 :smile: Soy un Desarrollador Full Stack de Argentina entusiasta por tecnologias actuales 💻 :smiling_face_with_three_hearts:
 
-# Aprendiz nato, siempre buscando nuevas experiencias de aprendizaje para mejorar mis conocimientos y poder aportar mi granito de arena a este hermoso mundo IT 🚀
+## Aprendiz nato, siempre buscando nuevas experiencias de aprendizaje para mejorar mis conocimientos y poder aportar mi granito de arena a este hermoso mundo IT 🚀
 
-<details><summary>Sobre mi</summary>
+<details><summary>🧩 Mis Tech Skills:</summary>
 <p>
-
-#### Mis pasatiempos :heart:
-
-  Amo la lectura :books: y tocar la guitarra en mis tiempos libres :guitar: :musical_note:
-
-</p>
-</details>
-
-## 🧩 Mis Tech Skills:
 
 ### CSS
 ### JavaScript
@@ -24,17 +15,32 @@
 ### PostgreSQL
 ### Git & GitHub
 
-## :love_letter: Contactame :
-### [LinkedIn:]( https://www.linkedin.com/in/mathias-ledesma/). [Email](mathiasimagine@gmail.com).
-### Email: mathiasimagine@gmail.com
-
-[mathiasimagine@gmail.com](mailto:mathiasimagine@gmail.com)
+</p>
+</details>
 
 
 
-###
- 
+## Algunos Proyectos
+
+
+
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+<details><summary>Sobre mi</summary>
+<p>
+
+#### Mis pasatiempos :heart:
+
+  Amo la lectura :books: y tocar la guitarra en mis tiempos libres :guitar: :musical_note:
+
+</p>
+</details>
+
+## :love_letter: Contactame :
+### [LinkedIn]( https://www.linkedin.com/in/mathias-ledesma/)       
+
+### [Email](mathiasimagine@gmail.com)
+
 <!--
 **mathyled/mathyled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
