@@ -41,6 +41,9 @@
 
 ### [Email](mathiasimagine@gmail.com)
 
+### [mathiasimagine@gmail.com](mailto:mathiasimagine@gmail.com)
+
+
 <!--
 **mathyled/mathyled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
