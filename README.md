@@ -22,9 +22,13 @@
 
 ## Algunos Proyectos
 
+### Pokemon App
 
-
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+<div>
+  <img src='https://user-images.githubusercontent.com/89098056/155193884-3f6d2efc-2a52-4f97-ad31-3008d3700b7b.png' width='400px' height='200px' align='center'/>
+  <img src='https://user-images.githubusercontent.com/89098056/155193865-633d3359-a8bc-48a2-8ae4-6bb26b2b573b.png' width='400px' height='200px' align='center'/>
+</div>
+<br>
 
 <details><summary>Sobre mi</summary>
 <p>
