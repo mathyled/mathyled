@@ -25,7 +25,7 @@
 ### Git & GitHub
 
 ## :love_letter: Contactame :
-### [LinkedIn:]( https://www.linkedin.com/in/mathias-ledesma/).
+### [LinkedIn:]( https://www.linkedin.com/in/mathias-ledesma/). [Email](mathiasimagine@gmail.com).
 ### Email: mathiasimagine@gmail.com
 
 [mathiasimagine@gmail.com](mailto:mathiasimagine@gmail.com)
