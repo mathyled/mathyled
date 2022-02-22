@@ -39,8 +39,6 @@
 ## :love_letter: Contactame :
 ### [LinkedIn]( https://www.linkedin.com/in/mathias-ledesma/)       
 
-### [Email](mathiasimagine@gmail.com)
-
 ### [mathiasimagine@gmail.com](mailto:mathiasimagine@gmail.com)
 
 
