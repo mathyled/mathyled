@@ -24,6 +24,12 @@
 
 #### Pokemon App
 
+📌 Desarrollado para el Bootcamp Henry
+
+🚀 Technologias: 
+
+React - Redux - NodeJS- Express - PostgreSQL - CSS Puro
+
 <div>
   <p>
   <img src='https://user-images.githubusercontent.com/89098056/155193884-3f6d2efc-2a52-4f97-ad31-3008d3700b7b.png' width='400px' height='200px' align='center'/>
