@@ -20,17 +20,16 @@
 
 
 
-## Algunos Proyectos
+### :pushpin: Algunos Proyectos
 
-### Pokemon App
+#### Pokemon App
 
 <div>
   <img src='https://user-images.githubusercontent.com/89098056/155193884-3f6d2efc-2a52-4f97-ad31-3008d3700b7b.png' width='400px' height='200px' align='center'/>
   <img src='https://user-images.githubusercontent.com/89098056/155195262-84805fdc-9318-49f5-a363-c409908fd460.png' width='400px' height='200px' align='center'/>
 </div>
 
-
-
+<br>
 
 <details><summary>Sobre mi</summary>
 <p>
