@@ -13,6 +13,8 @@
 </p>
 </details>
 
+You can also use words, to fit your writing style more closely[^note].
+
 Aprendiz nato, siempre buscando nuevas experiencias de aprendizaje para mejorar mis conocimientos y poder aportar mi granito de arena a este hermoso mundo IT 🚀
 
 Amo la lectura :books: y tocar la guitarra en mis tiempos libres :guitar: :musical_note:
