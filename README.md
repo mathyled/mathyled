@@ -13,6 +13,11 @@
 </p>
 </details>
 
+| --- | --- |
+
+
+| ------------------------------------------------------------------------------------------------------------- |
+
 You can also use words, to fit your writing style more closely[^note].
 
 Aprendiz nato, siempre buscando nuevas experiencias de aprendizaje para mejorar mis conocimientos y poder aportar mi granito de arena a este hermoso mundo IT 🚀
