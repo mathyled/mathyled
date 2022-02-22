@@ -1,29 +1,36 @@
-### Bienvenid@ 👋 :smile: Soy un Desarrollador Full Stack de Argentina entusiasta por tecnologias actuales 💻 :smiling_face_with_three_hearts:
+## Bienvenid@ 👋 :smile: Soy un Desarrollador Full Stack de Argentina entusiasta por tecnologias actuales 💻 :smiling_face_with_three_hearts:
 
-## Introduction
+# Aprendiz nato, siempre buscando nuevas experiencias de aprendizaje para mejorar mis conocimientos y poder aportar mi granito de arena a este hermoso mundo IT 🚀
 
-<details><summary>CLICK ME</summary>
+<details><summary>Sobre mi</summary>
 <p>
 
-#### We can hide anything, even code!
+#### Mis pasatiempos :heart:
 
-    ```ruby
-      puts "Hello World"
-    ```
+  Amo la lectura :books: y tocar la guitarra en mis tiempos libres :guitar: :musical_note:
 
 </p>
 </details>
 
-| --- | --- |
+## 🧩 Mis Tech Skills:
 
+### CSS
+### JavaScript
+### React
+### Redux
+### NodeJS
+### Express
+### Sequelize
+### PostgreSQL
+### Git & GitHub
 
-| ------------------------------------------------------------------------------------------------------------- |
+## :love_letter: Contactame :
 
-You can also use words, to fit your writing style more closely[^note].
+### LinkedIn: https://www.linkedin.com/in/mathias-ledesma/
 
-Aprendiz nato, siempre buscando nuevas experiencias de aprendizaje para mejorar mis conocimientos y poder aportar mi granito de arena a este hermoso mundo IT 🚀
+This site was built using [GitHub Pages](https://pages.github.com/).
 
-Amo la lectura :books: y tocar la guitarra en mis tiempos libres :guitar: :musical_note:
+###
  
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 <!--
