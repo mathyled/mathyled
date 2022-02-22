@@ -3,7 +3,7 @@ Aprendiz nato, siempre buscando nuevas experiencias de aprendizaje para mejorar 
 
 Amo la lectura :books: y tocar la guitarra en mis tiempos libres :guitar: :musical_note:
  
-
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 <!--
 **mathyled/mathyled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
