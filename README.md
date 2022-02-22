@@ -25,10 +25,12 @@
 ### Git & GitHub
 
 ## :love_letter: Contactame :
+### [LinkedIn:]( https://www.linkedin.com/in/mathias-ledesma/).
+### Email: mathiasimagine@gmail.com
 
-### LinkedIn: https://www.linkedin.com/in/mathias-ledesma/
+[mathiasimagine@gmail.com](mailto:mathiasimagine@gmail.com)
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+
 
 ###
  
