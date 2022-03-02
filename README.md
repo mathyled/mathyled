@@ -4,19 +4,38 @@
 
 <details><summary>🧩 Mis Tech Skills:</summary>
 <p>
+<div align="center">
+  <span><img height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />JavaScript</span>
+  <span>-</span>
+  <span><img height="30" width="40" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />TypeScript</span>
+  <span>-</span>
+  <span><img height="30" width="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />React</span>
+  <span>-</span>
+  <span><img height="30" width="40" alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />Redux</span>
+  <span>-</span>
+  <span><img height="30" width="40" alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />Node.js</span>
+  <span>-</span>
+  <span><img height="30" width="40" alt="Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />Css</span>
+  <span>-</span>
+  <span><img height="30" width="40" alt="Less" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />Less</span>
+  <span>-</span>
+  <span><img height="30" width="40" alt="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />Html</span>
+  <br></br>
 
-### CSS
-### JavaScript
-### React
-### Redux
-### NodeJS
-### Express
-### Sequelize
-### PostgreSQL
-### Git & GitHub
+  <span><img height="30" width="40" alt="PostgresSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />PostgresSQL</span>
+  <span>-</span>
+  <span><img height="30" width="40" alt="Sequelize" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />Sequelize</span>
+  <span>-</span>
+  <span><img height="30" width="40" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />MongoDB</span>
+
+  <span><img height="30" width="40" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />Express</span>
+  <span><img height="30" width="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />Git</span>
+</div>
+
 
 </p>
 </details>
+
 
 
 
@@ -27,8 +46,21 @@
 📌 Desarrollado para el Bootcamp Henry
 
 🚀 Technologias: 
+<br></br>
+  <span><img height="30" width="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />React</span>
+  <span>-</span>
+    <span><img height="30" width="40" alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />Redux</span>
+  <span>-</span>
+    <span><img height="30" width="40" alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />Node.js</span>
+  <span>-</span>
+    <span><img height="30" width="40" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />Express</span>
+      <span>-</span>
+        <span><img height="30" width="40" alt="PostgresSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />PostgresSQL</span>
+  <span>-</span>
+  <span><img height="30" width="40" alt="Sequelize" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />Sequelize</span>
+  <span>-</span>
+        <span><img height="30" width="40" alt="Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />Css</span>
 
-React - Redux - NodeJS- Express - PostgreSQL - CSS Puro
 
 <div>
   <p>
