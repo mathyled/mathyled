@@ -1,4 +1,4 @@
-# Bienvenid@ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :smile: Soy un Desarrollador Full Stack de Argentina entusiasta por tecnologias actuales 💻 :smiling_face_with_three_hearts:
+# Bienvenid@ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :smile: Soy un Desarrollador Full Stack curioso,  jugador de equipo, apasionado, me gusta crecer, innovar, desafiarme y aprender de las últimas tecnologías.  💻 :smiling_face_with_three_hearts:
 
 ## Aprendiz nato, siempre buscando nuevas experiencias de aprendizaje para mejorar mis conocimientos y poder aportar mi granito de arena a este hermoso mundo IT 🚀
 
