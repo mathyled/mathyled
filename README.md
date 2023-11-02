@@ -81,7 +81,7 @@
   <span>-</span>
         <span><img height="30" width="40" alt="Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />Css</span>
 
-
+   <!--
 <div>
       <p>
   <img src='https://user-images.githubusercontent.com/89098056/158065126-1c46deb3-8be2-4077-950c-2c1e22bbc669.gif' width='800px' height='400px' align='center'/>
@@ -94,6 +94,7 @@
   </p>
 
 </div>
+-->
 
 
 <br>
