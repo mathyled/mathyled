@@ -2,7 +2,7 @@
 
 ## Aprendiz nato, siempre buscando nuevas experiencias de aprendizaje para mejorar mis conocimientos y poder aportar mi granito de arena a este hermoso mundo IT 🚀
 
-<details><summary>🛠 Mis Tech Skills:</summary>
+<details><summary>🛠 Mis Tech Skills</summary>
 <p>
 <div align="center">
   <span><img height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />JavaScript</span>
@@ -57,7 +57,7 @@
 
 
 
-
+ <!--
 
 ### :pushpin: Algunos Proyectos
 
@@ -65,7 +65,7 @@
 
 📌 Desarrollado para el Bootcamp Henry
 
-🚀 Technologias: 
+🚀 Technologias
 <br></br>
   <span><img height="30" width="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />React</span>
   <span>-</span>
@@ -81,7 +81,6 @@
   <span>-</span>
         <span><img height="30" width="40" alt="Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />Css</span>
 
-   <!--
 <div>
       <p>
   <img src='https://user-images.githubusercontent.com/89098056/158065126-1c46deb3-8be2-4077-950c-2c1e22bbc669.gif' width='800px' height='400px' align='center'/>
@@ -102,7 +101,7 @@
 <details><summary>Sobre mi</summary>
 <p>
 
-#### Mis pasatiempos :heart:
+#### Mis pasatiempos :heart
 
   Amo la lectura :books: y tocar la guitarra en mis tiempos libres :guitar: :musical_note:
 
