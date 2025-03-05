@@ -1,6 +1,15 @@
 
+**Desarrollador de software** con más de **3 años de experiencia**, especializado en **Frontend**. A lo largo de mi carrera, he trabajado en una variedad de proyectos, desde la creación de aplicaciones web interactivas hasta la optimización del rendimiento y la implementación de soluciones escalables.
 
-<details><summary>🛠 Tech Skills</summary>
+## 🚀 ¿Qué hago?
+
+- **Desarrollo de aplicaciones web** interactivas y escalables utilizando **React** y **TypeScript**.
+- Creación de **librerías de componentes reutilizables**, mejorando la eficiencia y mantenibilidad del código.
+- Implementación de mejoras de **SEO** para asegurar que las aplicaciones sean fácilmente encontradas y accesibles por los motores de búsqueda.
+- **Optimización de tiempos de carga**, implementando técnicas como **Lazy Loading**, **Code Splitting** y **Tree Shaking**.
+- Diseño y desarrollo de **dashboards interactivos** para análisis de datos, utilizando gráficos dinámicos y visualización de métricas clave.
+<br>
+
 <p>
 <div align="center">
   <span><img height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />JavaScript</span>
@@ -32,7 +41,7 @@
 
 
 </p>
-</details>
+
 
 
 
@@ -77,15 +86,14 @@
 
 <br>
 
-<details><summary>Sobre mi</summary>
-<p>
+
 
 #### Mis pasatiempos :heart
 
   Amo la lectura :books: y tocar la guitarra en mis tiempos libres :guitar: :musical_note:
 
 </p>
-</details>
+
 
 ## :love_letter: Contactame :
 ### [LinkedIn]( https://www.linkedin.com/in/mathias-ledesma/)       
@@ -93,17 +101,3 @@
 ### [mathiasimagine@gmail.com](mailto:mathiasimagine@gmail.com)
 
 
-<!--
-**mathyled/mathyled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
