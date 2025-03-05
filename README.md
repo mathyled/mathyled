@@ -1,8 +1,6 @@
-# Bienvenid@ :smile: Soy un Desarrollador Full Stack curioso,  jugador de equipo, apasionado, me gusta crecer, innovar, desafiarme y aprender de las últimas tecnologías.  💻 :smiling_face_with_three_hearts:
 
-## Aprendiz nato, siempre buscando nuevas experiencias de aprendizaje para mejorar mis conocimientos y poder aportar mi granito de arena a este hermoso mundo IT 🚀
 
-<details><summary>🛠 Mis Tech Skills</summary>
+<details><summary>🛠 Tech Skills</summary>
 <p>
 <div align="center">
   <span><img height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />JavaScript</span>
@@ -32,25 +30,6 @@
   <span><img height="30" width="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />Git</span>
 </div>
 
-
-</p>
-</details>
-
-
-<details><summary>🧩 Mis Soft Skills</summary>
-<p>
-
-- Teamwork
-
-- Creative thinking
-
-- Resilience
-
-- Born teacher
-
-- Continous learning
-
-- Problem solving
 
 </p>
 </details>
